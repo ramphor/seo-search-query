@@ -1,0 +1,16 @@
+{
+    "name": "ramphor/seo-search-query",
+    "description": "The plugin SEO the WordPress search query",
+    "type": "project",
+    "require": {
+        "ramphor/seo-adapter": "dev-master"
+    },
+    "license": "GPL-v2",
+    "authors": [
+        {
+            "name": "Ramphor Premium",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
